@@ -5,6 +5,11 @@ linuxの場合はaplayを音声の出力に使います。
 ほとんど自分用なのでMACでどう動かすかは知りません。
 教えてくれたらその限りではないけれど。
 
+# インストール
+```sh
+pip install git+https://github.com/uesseu/zundaerror
+```
+
 # 使い方
 VOICEVOXのサーバーを立てます。VOICEVOXはVOICEVOX ENGINEを使うといいです。
 コマンドは当然pathに依存します。
