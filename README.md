@@ -1,3 +1,10 @@
+ninvoicevoxにずんだエラーの機能を統合しました。
+それに伴い、このリポジトリは古くなりました。
+下記をお使い下さい。
+
+https://github.com/uesseu/ninvoicevox
+
+
 # ZundamonError
 ずんだもんにpythonのエラーを報告させるものです。
 単にVOICEVOXをpythonからキックしているだけです。
